@@ -10,19 +10,12 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
-  domain: 'https://www.wolai.com/8YFRkpkKaz6CF1gFhsMH92',
-  author: 'Travis Fischer',
+  domain: 'blazingD',
+  author: 'BlazingDoggy',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
-  // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
-  // mastodon: '#', // optional mastodon profile URL, provides link verification
-  // newsletter: '#', // optional newsletter URL
-  // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
